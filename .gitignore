@@ -1,1 +1,2 @@
-my-ip-config.sh
+#ignore local config file
+my-*
