@@ -1,0 +1,2 @@
+sudo kubeadm config images list
+获取需要拉取的image
